@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+#iframe {
+    width: 100%;
+    height: 100%;
+}
